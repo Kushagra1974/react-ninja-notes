@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "notes",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 7
+    },
+    {
+      "title": "help",
+      "details": "useEffect(() => {\n        async function fetchData(params) {\n            try {\n                const res = await fetch(\"http://localhost:8000/notes\");\n                const dt = await res.json();\n                setData(dt);\n            }\n            catch (e) {\n                console.error(e);\n            }\n        }\n        fetchData();\n    }, [])",
+      "category": "money",
+      "id": 9
+    },
+    {
+      "title": "not ",
+      "details": "useEffect(() => {\n        async function fetchData(params) {\n            try {\n                const res = await fetch(\"http://localhost:8000/notes\");\n                const dt = await res.json();\n                setData(dt);\n            }\n            catch (e) {\n                console.error(e);\n            }\n        }\n        fetchData();\n    }, [])",
+      "category": "todos",
+      "id": 10
+    },
+    {
+      "title": "help",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "category": "todos",
+      "id": 11
+    },
+    {
+      "title": "help",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "category": "todos",
+      "id": 12
+    },
+    {
+      "title": "help",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "category": "money",
+      "id": 13
+    },
+    {
+      "title": "help",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "category": "money",
+      "id": 14
+    },
+    {
+      "title": "help1",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "category": "reminders",
+      "id": 15
+    },
+    {
+      "title": "help2",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "category": "money",
+      "id": 16
+    }
+  ]
+}
